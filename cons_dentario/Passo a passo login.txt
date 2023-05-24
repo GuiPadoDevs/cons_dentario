@@ -1,0 +1,15 @@
+Crie um novo projeto Laravel com o comando composer create-project --prefer-dist laravel/laravel nome_projeto. Certifique-se de ter o Composer instalado em sua máquina.
+
+Configure o arquivo .env com as informações do banco de dados que você deseja utilizar.
+
+Execute as migrações com o comando php artisan migrate.
+
+Instale o pacote Laravel UI com o comando composer require laravel/ui.
+
+Gere as views de autenticação com o comando php artisan ui vue --auth.
+
+Rode o comando npm install && npm run dev para compilar os assets.
+
+Pronto! Agora você já tem um sistema de registro de usuário e login básico. Acesse as rotas /login e /register para testar.
+
+Caso queira customizar a view de login ou registro, basta modificar os arquivos dentro do diretório resources/views/auth. Para customizar o controller responsável por gerenciar a autenticação, você pode criar um novo controller que estende o AuthController e sobrescrever os métodos necessários.

@@ -1,0 +1,9 @@
+Dashboard
+procedimentos - Cria os procedimentos que são feitos
+		pelo consultório e mostra na tela do 
+		cliente
+agendamento - No front o cliente agenda um horário e
+		no dashboad o verifica a agenda do
+		dia
+Faturamento - No dashboard consegue verificar o fatu
+		ramento do mês
