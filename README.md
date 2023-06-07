@@ -1,6 +1,6 @@
 # Sistema de Consultório Dentário 👨‍⚕️
 
- - 👨🏻‍💻 Desenvlvimento em andamento.
+ - 👨🏻‍💻 Desenvolvimento em andamento.
  - 💻 Programando em Laravel | JavaScript | HTML | CSS | PHP.
 
 <div style="display: inline_block"><br>
